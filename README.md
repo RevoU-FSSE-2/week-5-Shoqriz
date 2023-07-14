@@ -8,12 +8,13 @@ Saya membuat website bertemakan LMS atau sebuah website pembelajaran, awalan pem
 Website EduFree adalah sebuah platform pembelajaran daring yang menyediakan konten pendidikan gratis dan terpercaya. Website ini dirancang untuk memberikan pengalaman belajar yang interaktif dan menyenangkan.
 
 ## Section & Fitur
-Berikut adalah beberapa fitur yang ada di website EduFree:
+Berikut adalah beberapa section yang saya taruh di website EduFree:
 
-- **Navigasi Responsif**: Navigasi website dapat menyesuaikan tampilan sesuai dengan perangkat yang digunakan pengguna. Terdapat juga menu dropdown untuk submenu.
-- **Konten Menarik**: Konten pembelajaran yang disajikan dalam berbagai format, seperti video, kuis, dan sertifikat. Pengguna dapat dengan mudah mengakses dan menonton konten tersebut.
-- **Program Pendidikan**: Website menyediakan informasi tentang program pendidikan yang ditawarkan. Setiap program dilengkapi dengan deskripsi, gambar, dan tombol tautan untuk melihat lebih lanjut.
-- **Mentor Terkemuka**: Pengguna dapat belajar dari mentor-mentor terkemuka dalam bidang mereka. Setiap mentor memiliki foto dan nama yang ditampilkan.
+- **Navigasi Responsif**: Navigasi website dapat menyesuaikan tampilan sesuai dengan perangkat yang digunakan pengguna.
+  ![Navbar](preview.png)
+- **Konten**: Konten pembelajaran yang disajikan dalam berbagai format, seperti video, kuis, dan sertifikat. Pengguna dapat dengan mudah mengakses dan menonton konten tersebut.
+- **Program**: Website menyediakan informasi tentang program pendidikan yang ditawarkan. Setiap program dilengkapi dengan deskripsi, gambar, dan tombol tautan untuk melihat lebih lanjut.
+- **Mentor**: Pengguna dapat belajar dari mentor-mentor terkemuka dalam bidang mereka. Setiap mentor memiliki foto dan nama yang ditampilkan.
 - **Kutipan Inspiratif**: Di bagian kutipan, terdapat kutipan inspiratif yang memotivasi pengguna untuk terus belajar dan berkembang. Terdapat juga tautan untuk mendaftar.
 - **Artikel Menarik**: Website juga menyediakan artikel-artikel menarik yang dapat dibaca pengguna. Setiap artikel dilengkapi dengan gambar dan judul yang menggugah minat.
 - **Footer Informatif**: Footer website berisi bagian untuk regulasi, pengembang, perusahaan, dan kontak. Pengguna dapat dengan mudah menemukan informasi tersebut di bagian bawah halaman.
