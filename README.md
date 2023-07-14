@@ -70,22 +70,6 @@ Footer website berisi bagian untuk regulasi, pengembang, perusahaan, dan kontak.
 
 ![Footer](Documentation/Footer.png)
 
-## Pratinjau
-
-Lihat pratinjau tampilan website EduFree di bawah ini:
-
-![Pratinjau](Documentation/Preview.png)
-
-## Cara Menggunakan
-
-1. Unduh atau salin kode dari repositori ini ke direktori proyek Anda.
-2. Buka file `index.html` menggunakan browser web Anda.
-3. Jelajahi halaman website EduFree dan nikmati fitur-fitur yang disediakan.
-
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek ini, Anda dapat melakukan fork repositori ini dan membuat pull request dengan perubahan yang diinginkan.
-
 ## Kontak
 
 Jika Anda memiliki pertanyaan atau saran terkait proyek ini, silakan hubungi saya.
