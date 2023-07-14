@@ -3,13 +3,9 @@
 ### Hallo, Saya Shoqri Muhammad Zidan dari Team 6, berikut adalah sedikit dokumentasi tentang website yang saya buat.
 
 #### -- Tentang Website Yang Saya Buat --
-##### Saya membuat website bertemakan LMS atau sebuah website pembelajaran, awalan pembuatan dari saya hanya cukup simple dan masih belum banyak section
+Saya membuat website bertemakan LMS atau sebuah website pembelajaran, awalan pembuatan dari saya hanya cukup simple dan masih belum banyak section
 #### -- Deskripsi --
-##### Website EduFree adalah sebuah platform pembelajaran daring yang menyediakan konten pendidikan gratis dan terpercaya. Website ini dirancang untuk memberikan pengalaman belajar yang interaktif dan menyenangkan.
-
-### EduFree Website
-Ini adalah contoh kode HTML dan CSS untuk halaman website EduFree. Halaman ini memiliki navigasi, header, konten, dan footer.
-
+Website EduFree adalah sebuah platform pembelajaran daring yang menyediakan konten pendidikan gratis dan terpercaya. Website ini dirancang untuk memberikan pengalaman belajar yang interaktif dan menyenangkan.
 
 ## Fitur
 
