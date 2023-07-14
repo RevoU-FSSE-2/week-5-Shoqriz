@@ -1,0 +1,474 @@
+@font-face {
+    font-family: PoppinsSB;
+    src: url(PoppinsSB.ttf);
+}
+
+@font-face {
+    font-family: PoppinsRG;
+    src: url(Poppins-Regular.ttf);
+}
+body {
+    font-family: PoppinsSB;
+    margin: 0;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)), url(Background\ Glass.jpg);
+    background-size: 100%;
+  }  
+
+nav {
+    position: fixed;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 72px;
+    z-index: 9999;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+nav > span > img {
+    height: 200px;
+    padding: 15px 0px 0px 15px;
+}
+
+nav > span {
+    display: flex;
+    align-items: center;
+}
+
+nav > ul > li {
+    display: inline-block;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 16px;
+}
+
+nav > ul > li > a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+.join-btn1 {
+    position: absolute;
+    right: 32px;
+    background-color: #2A93B0;
+    padding: 5px 15px;
+    border-radius: 8px;
+}
+
+.btn-a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+
+header {
+    display: flex;
+    color: black;
+    text-align: center;
+    font-family: PoppinsSB;
+    font-size: 28px;
+    padding: 200px 100px;
+}
+
+#header h1 .gratis {
+    color: #37B34A;
+}
+
+#header h1 .terpercaya {
+    color: #FBB315;
+}
+
+#header h1 .indonesia {
+    color: #ED3665;
+}
+
+.join-btn2 {
+    text-align: center;
+    margin: -150px 0 0 0;
+}
+
+.btn-b {
+    background-color: #2A93B0;
+    color: white;
+    text-decoration: none;
+    padding: 15px 40px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    grid-template-rows: auto auto; 
+    grid-gap: 5px; 
+    margin: 135px 0px;
+    font-size: 16px;
+}
+
+#item img {
+    width: 100px;
+    margin-right: 24px; 
+}
+
+#item {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    padding: 30px 100px;
+}
+
+#item span {
+    font-size: 28px;
+    font-weight: bold; 
+}  
+
+#program h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.grid-container-2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    grid-gap: 100px;
+    padding: 50px 100px;
+}
+
+.box {
+    text-align: center;
+    border-radius: 10px;
+    border: 0px solid #000;
+    background: linear-gradient(297deg, #5138EE 0%, rgba(81, 56, 238, 0.60) 100%);
+}
+
+.box img {
+    width: 100%;
+    height: auto;
+}
+
+.box h3 {
+    margin-top: 10px;
+    font-size: 16px;
+    color: white;
+}
+
+.box .button {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    background-color: white;
+    color: #5138EE;
+    padding: 8px 16px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.grid-container-3 {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 30px;
+    padding: 50px 100px;
+}
+
+#mentor h1 {
+    font-size: 40px;
+    text-align: center;
+    padding: 150px 0px 0px 0px;
+}
+
+#mentor {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.grid-container-3 img {
+    width: 100%;
+    max-width: 200px;
+    border-radius: 10px;
+}
+
+.grid-container-3 p {
+    font-size: 14px;
+    text-align: center;
+    padding: 0px 10px 0px 0px;
+}
+
+.quote-box {
+    padding: 30px 20px;
+    text-align: center;
+    width: 1105px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    background: linear-gradient(297deg, #5138EE 0%, rgba(81, 56, 238, 0.60) 100%);
+}
+
+blockquote {
+  font-size: 40px;
+  margin-bottom: 10px;
+  color: white;
+  padding: 0px 50px;
+  
+}
+
+.author {   
+  color: #35CAFC;
+  font-size: 20px;
+}
+
+.about {
+    color: white;
+    font-size: 20px;
+    margin: 30px 20px;
+}
+
+.quote-box .button-2 {
+    text-decoration: none;
+    background-color: white;
+    color: #5138EE;
+    padding: 5px 50px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+#article h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.grid-container-4 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    grid-gap: 50px;
+    padding: 50px 100px;
+}
+
+.box-1 {
+    text-align: left;
+    border-radius: 10px;
+    border: 0px solid #000;
+    background: linear-gradient(297deg, #5138EE 0%, rgba(81, 56, 238, 0.60) 100%);
+}
+
+.box-1 img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.box-1 h3 {
+    margin: 5px 10px;
+    font-size: 16px;
+    color: white;
+}
+
+#article a {
+    text-decoration: none;
+}
+
+.box-gabung {
+    padding: 20px 20px;
+    text-align: center;
+    width: 1105px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    background: linear-gradient(297deg, #5138EE 0%, rgba(81, 56, 238, 0.60) 100%);
+}
+
+#gabung p {
+    font-size: 40px;
+    color: white;
+}
+
+.box-gabung a {
+    background: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 15px 50px;
+    font-size: 16px;
+}
+
+#footer {
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1)), url(Background\ Glass.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer-col {
+  margin: 0px 25px 0px 0px;
+  padding: 0px 90px 0px 50px;
+}
+
+.footer-col h4 {
+  margin-bottom: 10px;
+}
+
+.social-links a {
+  display: inline-block;
+  margin-right: 10px;
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #555;
+}
+
+ul li a:hover {
+  color: #000;
+}
+
+.copyright {
+    text-align: center;
+    margin: 60px 0px 20px 0px;
+    font-size: 10px;
+}
+
+/* Media Query untuk Lebar Layar 768px */
+@media (max-width: 768px) {
+  body {
+    background-size: cover;
+  }  
+
+  nav > span > img {
+    width: 100%;
+  }
+  
+  nav > ul > li {
+    display: none;
+  }
+
+  header {
+    padding: 100px 20px;
+  }
+
+  .text h1 {
+    font-size: 25px;
+  }
+  .join-btn1 {
+    display: none;
+  }
+  .join-btn2 {
+    padding: 80px 0px;
+  }
+
+  .btn-b {
+    padding: 10px 10px;
+  }
+
+  .gratis,
+  .terpercaya,
+  .indonesia {
+    display: inline;
+  }
+
+  .grid-container {
+    grid-template-columns: 1fr;
+    font-size: 10px;
+    margin: 25px 0px;
+  }
+
+  #item {
+    padding: 15px 40px;
+  }
+
+  #item span {
+    font-size: 24px;
+  }
+
+  #item img {
+    margin-right: 12px;
+    width: 75px;
+  }
+
+  #program h1 {
+    font-size: 30px;
+    margin: 100px 0px 0px 0px;
+  }
+  .grid-container-2 {
+    grid-template-columns: 1fr;
+    grid-gap: 25px;
+    padding: 25px 50px;
+  }
+
+  #mentor h1 {
+    padding: 100px 0px 0px 0px;
+    font-size: 30px;
+  }
+  
+  .grid-container-3 {
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+    padding: 15px 50px;
+  }
+  
+  #quotes .quote-box {
+    width: 300px;
+  }
+
+  #quotes blockquote {
+    font-size: 25px;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  #quotes .author {
+    font-size: 15px;
+  }
+
+  #quotes .about {
+    font-size: 12px;
+    margin: 10px 0px;
+  }
+
+  .grid-container-4 {
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+    padding: 25px 50px;
+  }
+
+  #article h1 {
+    font-size: 30px;
+  }
+
+  .box-gabung {
+    width: 300px;
+  }
+
+  #footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .footer-content {
+    flex-basis: 50%;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .footer-col {
+    margin: 0px;
+    padding: 0px 100px 0px 50px;
+  }
+}
