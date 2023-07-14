@@ -10,37 +10,28 @@ Website EduFree adalah sebuah platform pembelajaran daring yang menyediakan kont
 ## Section & Fitur
 Berikut adalah beberapa section yang saya taruh di website EduFree:
 
-- **Navigasi Responsif**:
-  Navigasi website dapat menyesuaikan tampilan sesuai dengan perangkat yang digunakan pengguna. yang dimana navbar ini berisi link ke arah Program, About, Contact dan Login.
+- **Navigasi Responsif**: Navigasi website dapat menyesuaikan tampilan sesuai dengan perangkat yang digunakan pengguna. yang dimana navbar ini berisi link ke arah Program, About, Contact dan Login.
   ![Navbar](Documentation/Nav.png)
+- **Tampilan Awal** : Tampilan Awal, Dibawahnya terdapat tombol untuk bergabung ke EduFree
+  ![Header](Documentation/Header.png)
 - **Konten**: Konten pembelajaran yang disajikan dalam berbagai format, seperti video, kuis, dan sertifikat. Pengguna dapat dengan mudah mengakses dan menonton konten tersebut.
+  ![Content](Documentation/Content.png)
 - **Program**: Website menyediakan informasi tentang program pendidikan yang ditawarkan. Setiap program dilengkapi dengan deskripsi, gambar, dan tombol tautan untuk melihat lebih lanjut.
+  ![Program](Documentation/Program.png)
 - **Mentor**: Pengguna dapat belajar dari mentor-mentor terkemuka dalam bidang mereka. Setiap mentor memiliki foto dan nama yang ditampilkan.
-- **Kutipan Inspiratif**: Di bagian kutipan, terdapat kutipan inspiratif yang memotivasi pengguna untuk terus belajar dan berkembang. Terdapat juga tautan untuk mendaftar.
-- **Artikel Menarik**: Website juga menyediakan artikel-artikel menarik yang dapat dibaca pengguna. Setiap artikel dilengkapi dengan gambar dan judul yang menggugah minat.
+  ![Mentor](Documentation/Mentor.png)
+- **Kutipan dan Tentang**: Di bagian kutipan dan tentang, terdapat kutipan inspiratif yang memotivasi pengguna untuk terus belajar dan berkembang. Terdapat juga sedikit tentang Edufree dan tautan untuk mendaftar.
+  ![Tentang](Documentation/Tentang.png)
+- **Artikel**: Website juga menyediakan artikel-artikel menarik yang dapat dibaca pengguna. Setiap artikel dilengkapi dengan gambar dan judul yang menggugah minat.
+  ![Artikel](Documentation/Artikel.png)
+- **Join** : Sebelum ke Footer terdapat sebuah container yang mengarahkan kita untuk bergabung EduFree
+  ![Join](Documentation/Join.png)
 - **Footer Informatif**: Footer website berisi bagian untuk regulasi, pengembang, perusahaan, dan kontak. Pengguna dapat dengan mudah menemukan informasi tersebut di bagian bawah halaman.
-
-## Pratinjau
-
-![Pratinjau Halaman EduFree](preview.png)
-
-## Cara Menggunakan
-
-1. Unduh atau salin kode dari repository ini ke direktori proyek Anda.
-2. Buka file `index.html` menggunakan browser web Anda.
-3. Jelajahi halaman website EduFree dan nikmati fitur-fitur yang disediakan.
-
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek ini, Anda dapat melakukan fork repository ini dan membuat pull request dengan perubahan yang diinginkan.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+  ![Footer](Documentation/Nav.png)
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran terkait proyek ini, silakan hubungi kami melalui email learning@edufree.com.
+Jika Anda memiliki pertanyaan atau saran terkait proyek ini, silakan hubungi saya terimakasihh.
 
 ---
 
