@@ -10,7 +10,8 @@ Website EduFree adalah sebuah platform pembelajaran daring yang menyediakan kont
 ## Section & Fitur
 Berikut adalah beberapa section yang saya taruh di website EduFree:
 
-- **Navigasi Responsif**: Navigasi website dapat menyesuaikan tampilan sesuai dengan perangkat yang digunakan pengguna. yang dimana navbar ini berisi link ke arah Program, About, Contact dan Login.
+- **Navigasi Responsif**:
+  Navigasi website dapat menyesuaikan tampilan sesuai dengan perangkat yang digunakan pengguna. yang dimana navbar ini berisi link ke arah Program, About, Contact dan Login.
   ![Navbar](Documentation/Nav.png)
 - **Konten**: Konten pembelajaran yang disajikan dalam berbagai format, seperti video, kuis, dan sertifikat. Pengguna dapat dengan mudah mengakses dan menonton konten tersebut.
 - **Program**: Website menyediakan informasi tentang program pendidikan yang ditawarkan. Setiap program dilengkapi dengan deskripsi, gambar, dan tombol tautan untuk melihat lebih lanjut.
