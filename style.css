@@ -349,10 +349,6 @@ ul li a:hover {
   body {
     background-size: cover;
   }  
-
-  nav > span > img {
-    width: 100%;
-  }
   
   nav > ul > li {
     display: none;
