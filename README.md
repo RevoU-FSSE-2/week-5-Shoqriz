@@ -27,7 +27,7 @@ Berikut adalah beberapa section yang saya taruh di website EduFree:
 - **Join** : Sebelum ke Footer terdapat sebuah container yang mengarahkan kita untuk bergabung EduFree
   ![Join](Documentation/Join.png)
 - **Footer Informatif**: Footer website berisi bagian untuk regulasi, pengembang, perusahaan, dan kontak. Pengguna dapat dengan mudah menemukan informasi tersebut di bagian bawah halaman.
-  ![Footer](Documentation/Nav.png)
+  ![Footer](Documentation/Footer.png)
 
 ## Kontak
 
