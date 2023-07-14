@@ -7,8 +7,7 @@ Saya membuat website bertemakan LMS atau sebuah website pembelajaran, awalan pem
 #### -- Deskripsi --
 Website EduFree adalah sebuah platform pembelajaran daring yang menyediakan konten pendidikan gratis dan terpercaya. Website ini dirancang untuk memberikan pengalaman belajar yang interaktif dan menyenangkan.
 
-## Fitur
-
+## Section & Fitur
 Berikut adalah beberapa fitur yang ada di website EduFree:
 
 - **Navigasi Responsif**: Navigasi website dapat menyesuaikan tampilan sesuai dengan perangkat yang digunakan pengguna. Terdapat juga menu dropdown untuk submenu.
