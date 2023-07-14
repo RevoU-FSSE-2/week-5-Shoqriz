@@ -2,6 +2,12 @@
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/f6dTnkNL)
 
+## Milestone Project 1 
+Hallo, Saya Shoqri Muhammad Zidan dari Team 6, berikut adalah sedikit dokumentasi tentang website yang saya buat.
+
+## Tentang Website Yang Saya Buat 
+Saya membuat website bertemakan LMS atau sebuah website pembelajaran, awalan pembuatan dari saya hanya cukup simple dan masih belum banyak section
+
 ## Deskripsi
 
 Website EduFree adalah sebuah platform pembelajaran daring yang menyediakan konten pendidikan gratis dan terpercaya. Website ini dirancang untuk memberikan pengalaman belajar yang interaktif dan menyenangkan.
