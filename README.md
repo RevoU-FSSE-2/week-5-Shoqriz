@@ -5,6 +5,9 @@
 ## Milestone Project 1 
 Hallo, Saya Shoqri Muhammad Zidan dari Team 6, berikut adalah sedikit dokumentasi tentang website yang saya buat.
 
+Berikut Link Website Saya : [EduFree ](https://shoqrizidan.site/)
+
+
 ## Tentang Website Yang Saya Buat 
 Saya membuat website bertemakan LMS atau sebuah website pembelajaran, awalan pembuatan dari saya hanya cukup simple dan masih belum banyak section
 
